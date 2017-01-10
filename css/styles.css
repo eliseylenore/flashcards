@@ -1,12 +1,13 @@
 
-.demoWord {
+.col-md-4 {
   cursor: pointer;
+  height: 200px;
 }
 
-.demoWord:hover {
+h3 {
   text-decoration: underline;
 }
 
-.definition {
+p {
   display: none;
 }
