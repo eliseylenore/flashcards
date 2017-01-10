@@ -1,0 +1,12 @@
+
+.demoWord {
+  cursor: pointer;
+}
+
+.demoWord:hover {
+  text-decoration: underline;
+}
+
+.definition {
+  display: none;
+}
